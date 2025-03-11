@@ -13,7 +13,7 @@ Below you will find the different projects I made or I'm currently working on.
 | [Netflix Project](https://github.com/charlesmitt/Netflix) | PowerBI | Dashboard of Netflix data - genres, country,...
 | [Speed Dating](https://github.com/charlesmitt/Speed-Dating)| Python | EDA of the Tinder speed dating dataset, and a few questions answered
 | [Running statistics](https://github.com/charlesmitt/Running-stats)| PowerBI | Dashboard of my running data - will I be able to run a sub40 10k one day ? 
-| [Déserts médicaux et téléconsultation](https://github.com/charlesmitt/Deserts_medicaux_et-teleconsultation)| Python / Docker / PowerBI | Can remote appointments with doctors help people in doctors deprived areas ?  
+| [Déserts médicaux et téléconsultation](https://github.com/charlesmitt/Deserts_medicaux_et_teleconsultation)| Python / Docker / PowerBI | Is internet access sufficient in doctors deprived areas to have remote appointments with doctors ?  
 
 
 <!---
